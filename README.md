@@ -1,22 +1,21 @@
-                                                                    # Hi there 👋
+<h1 align="center">Hi There 👋</h1>
 
-I'm [Your Name], a passionate software developer from [Your Country].
+I'm **Bishoy**, a passionate Flutter developer 💻 from Egypt 🦅.
 
 ## 🚀 About Me
-- 🔭 I’m currently working on [Your Project]
-- 🌱 I’m currently learning [Technology/Skill]
-- 👯 I’m looking to collaborate on [Open Source Project]
-- 💬 Ask me about [Your Expertise]
-- 📫 How to reach me: [Your Email]
-- 😄 Pronouns: [Your Pronouns]
+- 🔭 I’m currently working at Galeno Health Care 💊
+- 🌱 I’m currently learn advanced Flutter  
+- 💬 Ask me about Flutter
+- 📫 How to reach me: [Portfolio](https://bishoyabdmariam.github.io/my_resume/ )
 
 ## 🛠️ My Skills
-- Programming Languages: Python, JavaScript, etc.
-- Frameworks: React, Django, etc.
+- Programming Languages: Dart, TypeScript, Python ,etc.
+- Frameworks: Flutter, Node, etc.
 - Tools: Docker, Git, etc.
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=bishoyabdmariam&show_icons=true)
 
 ## 📫 Connect with me
-- [LinkedIn](https://
+- [LinkedIn](https://www.linkedin.com/in/bishoy-abdo-)
+- [Email](https://bishoyabdo236@gmail.com)
