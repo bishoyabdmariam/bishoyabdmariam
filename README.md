@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**bishoyabdmariam/bishoyabdmariam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm [Your Name], a passionate software developer from [Your Country].
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🔭 I’m currently working on [Your Project]
+- 🌱 I’m currently learning [Technology/Skill]
+- 👯 I’m looking to collaborate on [Open Source Project]
+- 💬 Ask me about [Your Expertise]
+- 📫 How to reach me: [Your Email]
+- 😄 Pronouns: [Your Pronouns]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ My Skills
+- Programming Languages: Python, JavaScript, etc.
+- Frameworks: React, Django, etc.
+- Tools: Docker, Git, etc.
+
+## 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+
+## 📫 Connect with me
+- [LinkedIn](https://
